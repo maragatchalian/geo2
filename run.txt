@@ -1,1 +1,2 @@
 run player s
+add player 2
